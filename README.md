@@ -44,11 +44,10 @@ Next i
    Cells(4, 1).Value = 2018
    Cells(4, 2).Value = totalVolume
    Cells(4, 3).Value = (endingPrice / startingPrice) - 1
-End Sub```
+End Sub
+```
 
 
-
-> After run the code we come across the result clearly stated that "DAQO" dropped over 63% in 2018. Therefor, we need to find better choice for Steve. Let's analysis multiple stocks. 
 
 
 
