@@ -114,12 +114,12 @@ End Sub
 ```
 Result of 2018:
 
-![](VBA_Challenge_2018.png)
+![](VBA_Challenge_2018.PNG)
 
 
 Result of 2017
 
-![](VBA_Challenge_2017.png)
+![](VBA_Challenge_2017.PNG)
 
 As a Data Anaylist we have to make readable outcome for the client, so in this case we made green highlighted cells are positive and reds are negative returns. Also, we have created buttons for Steve which made super user-friendly. 
 
