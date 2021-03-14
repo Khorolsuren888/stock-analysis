@@ -1,14 +1,14 @@
 #### Stock-Analysis
 
-##Overview of the Project
+**Overview of the Project
 
 A stock is an investment that can have a great value to the investors. Therefor, in order to help the investors to make the right purchase we are here to analyse the dataset given to us. 
 
 We have dataset of daily volume exchanged per stock, for the year of 2017, and 2018 which can easily reflect on value of the stock. Dataset included over 3000 daily records that can help us to to serve interest of client named Steve.
 
-##Results
+**Analysis and Results
 
-First of all, our client Steve needed particular stock called "DADQ" with the ticker 'DQ'.
+First of all, our client Steve needed outcome of particular stock called "DADQ" with the ticker 'DQ'.
 Here we created code for the total yearly traded volume based on the daily volumes for the ticker 'DQ'.
  
 ```Sub DQAnalysis()
@@ -45,6 +45,11 @@ Next i
    Cells(4, 2).Value = totalVolume
    Cells(4, 3).Value = (endingPrice / startingPrice) - 1
 End Sub```
+
+
+
+> After run the code we come across the result clearly stated that "DAQO" dropped over 63% in 2018. Therefor, we need to find better choice for Steve. Let's analysis multiple stocks. 
+
 
 
 
